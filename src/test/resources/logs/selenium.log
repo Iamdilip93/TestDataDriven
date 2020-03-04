@@ -1,0 +1,7 @@
+23:43:15,691 DEBUG devpinoyLogger:53 - Config File Loaded..!!!!!
+23:43:15,696 DEBUG devpinoyLogger:67 - OR File Loaded..!!!!!
+23:43:23,764 DEBUG devpinoyLogger:78 - Chrome Launched..!!!!!
+23:43:27,421 DEBUG devpinoyLogger:88 - Navigated To----http://www.way2automation.com/angularjs-protractor/banking/#/login
+23:43:33,150 DEBUG devpinoyLogger:13 - inside Login Test
+23:43:39,014 DEBUG devpinoyLogger:16 - Login Successfully executed..
+23:43:40,299 DEBUG devpinoyLogger:106 - Test Execution Completed..
